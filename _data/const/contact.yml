@@ -15,26 +15,26 @@
 github:
   icon: "fa fa-github"
   url: "https://github.com"
-email:
+email:YARET CHAVEZ
   icon: "fa fa-envelope-o"
   url: ""
-linkedin:
+linkedin:TIFFANY_YARET3
   icon: "fa fa-linkedin"
   url: "https://www.linkedin.com/in"
-twitter:
+twitter:MORENOCHAVEZYARET105@GMAIL.COM
   icon: "fa fa-twitter"
   url: "https://twitter.com"
-mastodon:
+mastodon:YARET105-MORENO
 # The mastodon svg file was obtained from this link: https://github.com/mastodon/joinmastodon/blob/master/public/logos/logo-black.svg
   icon: "/assets/img/default/mastodon.svg"
   url: "https://mastodon.social"
-instagram:
+instagram:TIFFANYYARET3
   icon: "fa fa-instagram"
   url: "https://www.instagram.com"
-youtube:
+youtube:ANIA MORENO 105
   icon: "fa fa-youtube-play"
   url: "https://www.youtube.com/channel"
-facebook:
+facebook:YARET MCZ
   icon: "fa fa-facebook"
   url: "https://www.facebook.com"
 # add your new contact
